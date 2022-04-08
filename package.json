@@ -64,7 +64,7 @@
   "dependencies": {
     "@ethersproject/abi": "^5.4.0",
     "@ethersproject/abstract-signer": "^5.4.1",
-    "@ethersproject/address": "git+https://github.com/BlockFinch/address.js.git"
+    "@ethersproject/address": "git+https://github.com/BlockFinch/address.js.git",
     "@ethersproject/bignumber": "^5.4.1",
     "@ethersproject/bytes": "^5.4.0",
     "@ethersproject/constants": "^5.4.0",
